@@ -1,6 +1,5 @@
 //const cypress = require("cypress")
 
-
 describe('Search & add product amazon', () => {
 
   beforeEach(() => {
